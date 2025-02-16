@@ -9,3 +9,5 @@ D
 tests/member.test.ts,a/f/af037c7dd36ba554088fba695e1c28d7c3551c43
 G
 contracts/treasury.clar,4/e/4e0348f51b734f9b69f3d22102d50687fbbd267c
+F
+tests/treasury.test.ts,7/2/72fe0b0420717b695b8e83752e509f354a94ce57
