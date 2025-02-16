@@ -5,3 +5,5 @@
 vitest.config.js,e/0/e07f8ead7c602b60a2232e5ffe6110c6ee0d3968
 E
 contracts/member.clar,1/6/16e80288fdeb4bb478bea9d232a4aed09b285cd0
+D
+tests/member.test.ts,a/f/af037c7dd36ba554088fba695e1c28d7c3551c43
